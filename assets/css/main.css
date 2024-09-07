@@ -720,6 +720,18 @@ input, select, textarea {
 
 		}
 
+/* other */
+.introphoto{
+	float:left;
+	width: 20%
+}
+
+.introtext{
+	float:right;
+	width: 80%
+}
+
+
 /* List */
 
 	ol {
